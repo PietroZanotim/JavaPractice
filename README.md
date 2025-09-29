@@ -1,2 +1,2 @@
 # JavaPractice
-Trying some topics os Java!
+Trying some topics on Java!
